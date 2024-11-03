@@ -1,3 +1,6 @@
-"Modified in master branch and this is a feature file."
+# feature1.py
 
+# Feature 1 description
+modified_message = "Modified in master branch."
+conflicting_message = "Conflicting change in feature branch."
 

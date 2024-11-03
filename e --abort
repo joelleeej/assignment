@@ -1,0 +1,40 @@
+* [33m098c095[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature-branch[m[33m)[m Update feature1.py in feature-branch with conflicting change
+* [33mc60cbfa[m Add feature1.py with initial content
+* [33mb49f6af[m Update file3.py and file4.py with new lines
+* [33m8af78f5[m Revert "Add file4.py with initial content"
+* [33ma7216ec[m Add file4.py with initial content
+* [33mc2af573[m Add file3.py with initial content
+* [33mc3ac813[m[33m ([m[1;32mmaster[m[33m)[m Update feature1.py in master
+* [33m23346a4[m Add main.py with initial content
+[31m|[m * [33md5eaa7f[m[33m ([m[1;32mundoing_changes[m[33m)[m Revert "Update file4.py"
+[31m|[m * [33m4877e68[m Revert "Update file3.py"
+[31m|[m * [33m8ef0d62[m Update file3.py
+[31m|[m * [33m18bf34b[m Update file4.py
+[31m|[m * [33m9c92b41[m Update file3.py again
+[31m|[m * [33mdcca3fd[m Add file5.py
+[31m|[m * [33ma70efb5[m[33m ([m[1;32manchor[m[33m)[m Update file3.py and file4.py with new lines
+[31m|[m * [33mf3a0c5b[m Revert "Add file4.py with initial content"
+[31m|[m * [33me42fe87[m Add file4.py with initial content
+[31m|[m * [33mef6b3b2[m Add file3.py with initial content
+[31m|[m[31m/[m  
+*   [33m6dce249[m Resolved merge conflict in existing_file.py
+[33m|[m[34m\[m  
+[33m|[m * [33m05aec1d[m[33m ([m[1;32mmy_first_branch[m[33m)[m Another update to existing_file.py in my_first_branch
+[33m|[m * [33m9fc24c6[m Added a line to existing_file.py in my_first_branch
+* [34m|[m [33m3dae88e[m Updated existing_file.py in master with conflicting changes
+* [34m|[m [33mebaf259[m Merge branch 'my_first_branch'
+[35m|[m[34m\[m[34m|[m 
+[35m|[m * [33m0c2c7e0[m Add another_file.txt for testing
+[35m|[m * [33m0dafcde[m Add another line to existing_file.py
+* [36m|[m [33mb327295[m Update README.txt for clarity
+[36m|[m[36m/[m  
+* [33m21ecc52[m Update existing_file.py with an additional line
+* [33m06e9bab[m Add new_file.py with a greeting
+* [33mb8d1ac6[m Rename README.md to README.txt using OS command
+* [33mf7356e2[m Rename README to README.md
+* [33m97c1d22[m Manually delete file1.py
+* [33m63eee7c[m Remove file2.py
+* [33ma31e2de[m Add print statements to file1.py and file2.py
+* [33md8afcf9[m Update file1.py with new changes
+* [33m9cf1b7a[m Add src directory with file1.py and file2.py
+* [33m8766b96[m Add README
