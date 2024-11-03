@@ -4,3 +4,4 @@
 modified_message = "Modified in master branch."
 conflicting_message = "Conflicting change in feature branch."
 
+"Another change in feature branch." 
